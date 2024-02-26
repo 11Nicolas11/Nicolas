@@ -93,3 +93,64 @@ seleccione guardar
 
 
 </form>
+
+
+
+TAREA 2.
+
+
+<form>
+Nombre completo
+
+</br>
+
+<input type='text' name='nombre' id='nombre'>
+
+</br>
+
+Primer apellido 
+
+</br>
+
+<input type='text' name='apellido' id='apellido'>
+
+</br>
+
+Segundo apellido
+
+</br>
+
+<input type='text' name='nombre' id='nombre'>
+
+</br>
+
+Digitar la Edad
+
+</br>
+
+
+<input type='number'name='edad' id='edad'>
+
+</br>
+
+Numero de documento 
+
+</br>
+
+<input type='number'name='identidad' id='identidad'>
+
+</br>
+
+Sexo del paciente 
+
+</br>
+
+<select name='sexo' id='sexo'>
+
+<option value='M'>Masculino</option>
+
+<option value='F'>Femenino</option>
+
+</br>
+
+
